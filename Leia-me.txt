@@ -1,2 +1,0 @@
-Professor, não conseguir criar o arquivo .jar
-Para executar o programa é so digitar: "java Programa argumento1.txt argumento2.txt"
